@@ -1,0 +1,93 @@
+@media(min-width:576px){
+
+
+}
+@media(min-width:768px){
+   
+}
+@media(min-width:992px){
+    
+    
+}
+@media(min-width:1200px){
+    aside{
+        width:260px
+    }
+    .lo_content span{
+        display:block;
+    }
+    .logo_content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    aside .logo {
+        padding: 30px 30px;
+    }
+    .menu_head {
+        display:inline-block;
+    }
+    .field_name>span {
+        display:inline-block;
+    }
+    .field_icon>i{
+        display: inline-block;
+    }
+    .dashboard_sub>li{
+        display:block;
+    }
+    header{
+        margin-left: 260px;
+    }
+    .content_area{
+        margin-left:260px;
+    }
+    .box1{
+        grid-column: span 8;
+    }
+    .box2 {
+        grid-column: span 2;
+    }
+    .box3 {
+        grid-column: span 2;
+    }
+    .box4 {
+        grid-column: 9/11;
+    }
+    .box5 {
+        grid-column: 11/13;
+    }
+    .box6 {
+        grid-column: span 4;
+        grid-row: span 2;
+    }
+    .box7 {
+        grid-column: span 4;
+        grid-row: span 2;
+    }
+    .box8 {
+        grid-column: span 2;
+        padding: 10px 6px;
+    }
+    .box9 {
+        grid-column: span 2;
+    }
+    .box10{
+    grid-column: span 4;
+    grid-row: span 3;
+    }
+    .box11 {
+        grid-column: span 8;
+    }
+    .box12 {
+        grid-column: span 8;
+    }
+    .box13 {
+        grid-column: span 4;
+    }
+    .box14 {
+        grid-column: span 4;
+    }
+}
+@media(min-width:1400px){
+
+}
